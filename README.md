@@ -3,7 +3,7 @@
 
 I have created this Virtual Paint Program to paint(draw) on your screen using hand gestures.
 
-# Gestures
+## Gestures
 - Index Finger - for drawing
 - Index+Middle Finger - for changing position and objects
 - Middle+Fourth Finger - for clearing whole screen
@@ -13,13 +13,13 @@ I have created this Virtual Paint Program to paint(draw) on your screen using ha
 
 
 
-# Requirements
+## Requirements
 - Python 3.10.9 64 bit
 - Visual Studio Code
 
 
 
-# Installation
+## Installation
 To run this file you need to install some PYTHON modules, open your CMD and type following commands-
 
 - pip install mediapipe
@@ -28,7 +28,7 @@ To run this file you need to install some PYTHON modules, open your CMD and type
 
 
 
-# Code
+## Code
 Firstly I have created a Module "HandTrackingModule.py", this file contains the code which detects our hand, in this file I have created functions for specific tasks in a class "handDetector()".
 
 Short description of functions are -
